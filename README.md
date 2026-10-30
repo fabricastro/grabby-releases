@@ -34,8 +34,8 @@ marcar o detener sin abrir la ventana:
 ## Privacidad
 
 - Las grabaciones y las transcripciones quedan en tu computadora.
-- El audio solo sale de tu máquina si elegís un proveedor en la nube, y la app lo marca antes de
-  transcribir. El modo "solo local" bloquea cualquier servicio externo.
+- El audio solo sale de tu máquina si elegís un proveedor en la nube, y la app te avisa a cuál
+  se envía antes de transcribir. El modo "solo local" bloquea cualquier servicio externo.
 - Las claves de los proveedores se guardan en el Llavero del sistema, nunca en archivos.
 - Antes de grabar, la app puede recordarte que avises a los participantes.
 
